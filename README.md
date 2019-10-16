@@ -1,4 +1,4 @@
-###Aplicación del Clima
+## Aplicación del Clima
 
 Recuerden ejecturar ```npm install``` para las librerias.
 
